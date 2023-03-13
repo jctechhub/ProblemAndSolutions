@@ -4,4 +4,4 @@
 
 ### Azure function
 
-- [Can't run Azure function in VisualStudio 2022.](www.google.com)
+- [Can't run Azure function in VisualStudio 2022.]([www.google.com](https://github.com/jctechhub/ProblemAndSolutions/blob/main/azure/function/Readme.md))
